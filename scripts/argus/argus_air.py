@@ -93,7 +93,8 @@ def main():
     multicollect(ncounts=mx.multicollect.counts, integration_time=1)
 
     if mx.baseline.after:
-        baselines(ncounts=mx.baseline.counts,mass=mx.baseline.mass, detector=mx.baseline.detector)
+        baselines(ncounts=mx.baseline.counts,mass=mx.baseline.mass, detector=mx.baseline.detector,
+                  settling_time=mx.baseline.settling_time)
 
     if mx.peakcenter.after:
         activate_detectors(*mx.peakcenter.detectors, **{'peak_center':True})
