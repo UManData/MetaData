@@ -3,7 +3,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": "1001",
+            "identifier": 1701,
             "j": 0.12,
             "j_err": 0.0,
             "mean_j": 0,
@@ -15,7 +15,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": "1002",
+            "identifier": 1702,
             "j": 0.12,
             "j_err": 0.0,
             "mean_j": 0,
@@ -27,7 +27,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": "1003",
+            "identifier": 1703,
             "j": 0.12,
             "j_err": 0.0,
             "mean_j": 0,
@@ -39,7 +39,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": "1004",
+            "identifier": 1704,
             "j": 0.12,
             "j_err": 0.0,
             "mean_j": 0,
@@ -51,7 +51,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": "1005",
+            "identifier": 1705,
             "j": 0.12,
             "j_err": 0.0,
             "mean_j": 0,
@@ -63,7 +63,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": "1006",
+            "identifier": 1706,
             "j": 0.12,
             "j_err": 0.0,
             "mean_j": 0,
@@ -75,7 +75,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": "1007",
+            "identifier": 1707,
             "j": 0.12,
             "j_err": 0.0,
             "mean_j": 0,
@@ -87,7 +87,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": "1008",
+            "identifier": 1708,
             "j": 0.12,
             "j_err": 0.0,
             "mean_j": 0,
@@ -99,7 +99,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": "1009",
+            "identifier": 1709,
             "j": 0.12,
             "j_err": 0.0,
             "mean_j": 0,
@@ -111,7 +111,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": "1010",
+            "identifier": 1710,
             "j": 0.12,
             "j_err": 0.0,
             "mean_j": 0,
@@ -123,7 +123,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": "1011",
+            "identifier": 1711,
             "j": 0.12,
             "j_err": 0.0,
             "mean_j": 0,
@@ -135,7 +135,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": "1012",
+            "identifier": 1712,
             "j": 0.12,
             "j_err": 0.0,
             "mean_j": 0,
@@ -147,7 +147,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": "1013",
+            "identifier": 1713,
             "j": 0.12,
             "j_err": 0.0,
             "mean_j": 0,
@@ -159,7 +159,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": "1014",
+            "identifier": 1714,
             "j": 0.12,
             "j_err": 0.0,
             "mean_j": 0,
@@ -171,7 +171,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": "1015",
+            "identifier": 1715,
             "j": 0.12,
             "j_err": 0.0,
             "mean_j": 0,
@@ -183,7 +183,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": "1016",
+            "identifier": 1716,
             "j": 0.12,
             "j_err": 0.0,
             "mean_j": 0,
@@ -195,7 +195,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": "1017",
+            "identifier": 1717,
             "j": 0.12,
             "j_err": 0.0,
             "mean_j": 0,
@@ -207,7 +207,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": "1018",
+            "identifier": 1718,
             "j": 0.12,
             "j_err": 0.0,
             "mean_j": 0,
@@ -219,7 +219,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": "1019",
+            "identifier": 1719,
             "j": 0.12,
             "j_err": 0.0,
             "mean_j": 0,
@@ -231,7 +231,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": "1020",
+            "identifier": 1720,
             "j": 0.12,
             "j_err": 0.0,
             "mean_j": 0,
@@ -243,7 +243,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": "1021",
+            "identifier": 1721,
             "j": 0.12,
             "j_err": 0.0,
             "mean_j": 0,
@@ -255,7 +255,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": "1022",
+            "identifier": 1722,
             "j": 0.12,
             "j_err": 0.0,
             "mean_j": 0,
@@ -267,7 +267,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": "1023",
+            "identifier": 1723,
             "j": 0.12,
             "j_err": 0.0,
             "mean_j": 0,
@@ -279,7 +279,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": "1024",
+            "identifier": 1724,
             "j": 0.12,
             "j_err": 0.0,
             "mean_j": 0,
@@ -291,7 +291,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": "1025",
+            "identifier": 1725,
             "j": 0.12,
             "j_err": 0.0,
             "mean_j": 0,
@@ -303,7 +303,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": "1026",
+            "identifier": 1726,
             "j": 0.12,
             "j_err": 0.0,
             "mean_j": 0,
