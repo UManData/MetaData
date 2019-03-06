@@ -3,9 +3,9 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": 1729,
+            "identifier": "1729",
             "j": 0.12,
-            "j_err": 0,
+            "j_err": 0.0,
             "mean_j": 0,
             "mean_j_err": 0,
             "options": {},
@@ -15,9 +15,9 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": 1730,
+            "identifier": "1730",
             "j": 0.12,
-            "j_err": 0,
+            "j_err": 0.0,
             "mean_j": 0,
             "mean_j_err": 0,
             "options": {},
