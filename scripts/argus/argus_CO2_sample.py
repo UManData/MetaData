@@ -92,6 +92,7 @@ def main():
     open(description='CO2 Inlet')
     #open(description='Excimer Inlet')
     open('D')
+    open('A')
     close(description='Prep IG')
 
 #===============================================================================
