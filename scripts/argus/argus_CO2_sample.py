@@ -91,7 +91,7 @@ def main():
     info('pump sample')
     open(description='CO2 Inlet')
     #open(description='Excimer Inlet')
-    open('D')
+    close('D')
     open('A')
     close(description='Prep IG')
 
