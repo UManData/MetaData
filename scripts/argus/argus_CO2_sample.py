@@ -8,6 +8,7 @@ def main():
     info('CO2 sample')
     
     # prepare for analysis
+    open('B')
     close(description='Prep IG')
     sleep(30)
     
@@ -89,7 +90,7 @@ def main():
 
 def main():
     info('pump sample')
-    open(description='CO2 Inlet')
+    open('B')
     #open(description='Excimer Inlet')
     close('D')
     open('A')
