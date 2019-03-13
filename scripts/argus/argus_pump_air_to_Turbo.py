@@ -34,5 +34,5 @@
 def main():
     info('pump air to turbo')
     open('B')
-    open(description='Excimer Inlet')
+    open('A')
     close(description='Prep IG')
