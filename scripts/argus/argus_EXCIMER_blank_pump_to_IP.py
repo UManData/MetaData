@@ -86,7 +86,7 @@ def main():
     info('pump sample')
     open(description='B') # CO2 Inlet
     open(description='A') # Excimer Inlet
-    close(description='D') # Prep IG
+    open(description='D') # Prep IG
     open(description='Ion Pump')
 
 #===============================================================================
