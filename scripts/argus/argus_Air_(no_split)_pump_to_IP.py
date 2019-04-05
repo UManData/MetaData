@@ -96,10 +96,10 @@ def main():
 
 def main():
     info('pump air')
-    open(description='CO2 Inlet')
-    open(description='Excimer Inlet')
-    open(description='Ion Pump')
-    close(description='Prep IG')
+    open(name="B", description="CO2 Inlet")
+    open(name="A", description="Excimer Inlet")
+    open(name="D", description="Ion Pump")
+    close(description="Prep IG")
 
 #===============================================================================
 # POST MEASUREMENT SCRIPT argus_pump_ms.py
