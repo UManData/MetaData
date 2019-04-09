@@ -32,8 +32,7 @@
 
 
 def main():
-    info('pump air')
+    info('pump sample')
     open(name="B", description="CO2 Inlet")
     open(name="A", description="Excimer Inlet")
     open(name="D", description="Ion Pump")
-    close(description="Prep IG")
