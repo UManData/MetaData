@@ -37,7 +37,7 @@ def main():
         sleep(120)
 # Expand Ar pipette volume into manifold volume
     close(description='Prep IG')
-    sleep(90)
+#    sleep(90)
     close('I')
 #    close('G')
     close('A')
