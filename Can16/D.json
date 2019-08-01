@@ -109,8 +109,8 @@
                 "lambda_k_total_error": 0
             },
             "identifier": "1761",
-            "j": 0.013467284604707155,
-            "j_err": 0.0001946849402436557,
+            "j": 0.013130080396735945,
+            "j_err": Infinity,
             "mean_j": 0.013579686007363995,
             "mean_j_err": NaN,
             "options": {
