@@ -14,8 +14,9 @@
             "options": {
                 "model_kind": "Plane",
                 "monitor_age": 28.201,
+                "monitor_material": "FC-2",
+                "monitor_name": "FC-2",
                 "monitor_reference": "FC Min",
-                "monitor_sample_name": "",
                 "monte_carlo_ntrials": 10,
                 "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
                 "use_monte_carlo": false,
@@ -38,8 +39,9 @@
             "options": {
                 "model_kind": "Plane",
                 "monitor_age": 28.201,
+                "monitor_material": "FC-2",
+                "monitor_name": "FC-2",
                 "monitor_reference": "FC Min",
-                "monitor_sample_name": "",
                 "monte_carlo_ntrials": 10,
                 "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
                 "use_monte_carlo": false,
@@ -62,8 +64,9 @@
             "options": {
                 "model_kind": "Plane",
                 "monitor_age": 28.201,
+                "monitor_material": "FC-2",
+                "monitor_name": "FC-2",
                 "monitor_reference": "FC Min",
-                "monitor_sample_name": "",
                 "monte_carlo_ntrials": 10,
                 "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
                 "use_monte_carlo": false,
@@ -86,8 +89,9 @@
             "options": {
                 "model_kind": "Plane",
                 "monitor_age": 28.201,
+                "monitor_material": "FC-2",
+                "monitor_name": "FC-2",
                 "monitor_reference": "FC Min",
-                "monitor_sample_name": "",
                 "monte_carlo_ntrials": 10,
                 "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
                 "use_monte_carlo": false,
@@ -110,8 +114,9 @@
             "options": {
                 "model_kind": "Plane",
                 "monitor_age": 28.201,
+                "monitor_material": "FC-2",
+                "monitor_name": "FC-2",
                 "monitor_reference": "FC Min",
-                "monitor_sample_name": "",
                 "monte_carlo_ntrials": 10,
                 "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
                 "use_monte_carlo": false,
@@ -134,8 +139,9 @@
             "options": {
                 "model_kind": "Plane",
                 "monitor_age": 28.201,
+                "monitor_material": "FC-2",
+                "monitor_name": "FC-2",
                 "monitor_reference": "FC Min",
-                "monitor_sample_name": "",
                 "monte_carlo_ntrials": 10,
                 "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
                 "use_monte_carlo": false,
@@ -158,8 +164,9 @@
             "options": {
                 "model_kind": "Plane",
                 "monitor_age": 28.201,
+                "monitor_material": "FC-2",
+                "monitor_name": "FC-2",
                 "monitor_reference": "FC Min",
-                "monitor_sample_name": "",
                 "monte_carlo_ntrials": 10,
                 "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
                 "use_monte_carlo": false,
@@ -182,8 +189,9 @@
             "options": {
                 "model_kind": "Plane",
                 "monitor_age": 28.201,
+                "monitor_material": "FC-2",
+                "monitor_name": "FC-2",
                 "monitor_reference": "FC Min",
-                "monitor_sample_name": "",
                 "monte_carlo_ntrials": 10,
                 "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
                 "use_monte_carlo": false,
@@ -206,8 +214,9 @@
             "options": {
                 "model_kind": "Plane",
                 "monitor_age": 28.201,
+                "monitor_material": "FC-2",
+                "monitor_name": "FC-2",
                 "monitor_reference": "FC Min",
-                "monitor_sample_name": "",
                 "monte_carlo_ntrials": 10,
                 "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
                 "use_monte_carlo": false,
@@ -217,16 +226,35 @@
             "position_jerr": 0.0
         },
         {
-            "analyses": [],
-            "decay_constants": {},
+            "analyses": [
+                {
+                    "is_omitted": false,
+                    "record_id": "1879-01A",
+                    "uuid": "f32dbf28-cbc8-4493-83bf-f918b66ee839"
+                }
+            ],
+            "decay_constants": {
+                "lambda_k_total": 5.463e-10,
+                "lambda_k_total_error": 0
+            },
             "identifier": "1879",
-            "j": 0.017,
-            "j_err": 0.001,
-            "mean_j": 0,
-            "mean_j_err": 0,
-            "options": {},
+            "j": 0.018630557473686953,
+            "j_err": 3.145183908224831e-05,
+            "mean_j": 0.0050316347197870955,
+            "mean_j_err": NaN,
+            "options": {
+                "model_kind": "Plane",
+                "monitor_age": 28.201,
+                "monitor_material": "FC-2",
+                "monitor_name": "FC-2",
+                "monitor_reference": "FC Min",
+                "monte_carlo_ntrials": 10,
+                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "use_monte_carlo": false,
+                "use_weighted_fit": false
+            },
             "position": 10,
-            "position_jerr": null
+            "position_jerr": 0.0
         },
         {
             "analyses": [
@@ -248,8 +276,9 @@
             "options": {
                 "model_kind": "Plane",
                 "monitor_age": 28.201,
+                "monitor_material": "FC-2",
+                "monitor_name": "FC-2",
                 "monitor_reference": "FC Min",
-                "monitor_sample_name": "",
                 "monte_carlo_ntrials": 10,
                 "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
                 "use_monte_carlo": false,
@@ -278,8 +307,9 @@
             "options": {
                 "model_kind": "Plane",
                 "monitor_age": 28.201,
+                "monitor_material": "FC-2",
+                "monitor_name": "FC-2",
                 "monitor_reference": "FC Min",
-                "monitor_sample_name": "",
                 "monte_carlo_ntrials": 10,
                 "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
                 "use_monte_carlo": false,
@@ -308,8 +338,9 @@
             "options": {
                 "model_kind": "Plane",
                 "monitor_age": 28.201,
+                "monitor_material": "FC-2",
+                "monitor_name": "FC-2",
                 "monitor_reference": "FC Min",
-                "monitor_sample_name": "",
                 "monte_carlo_ntrials": 10,
                 "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
                 "use_monte_carlo": false,
@@ -338,8 +369,9 @@
             "options": {
                 "model_kind": "Plane",
                 "monitor_age": 28.201,
+                "monitor_material": "FC-2",
+                "monitor_name": "FC-2",
                 "monitor_reference": "FC Min",
-                "monitor_sample_name": "",
                 "monte_carlo_ntrials": 10,
                 "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
                 "use_monte_carlo": false,
@@ -368,8 +400,9 @@
             "options": {
                 "model_kind": "Plane",
                 "monitor_age": 28.201,
+                "monitor_material": "FC-2",
+                "monitor_name": "FC-2",
                 "monitor_reference": "FC Min",
-                "monitor_sample_name": "",
                 "monte_carlo_ntrials": 10,
                 "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
                 "use_monte_carlo": false,
