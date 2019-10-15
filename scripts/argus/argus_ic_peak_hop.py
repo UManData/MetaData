@@ -21,7 +21,7 @@ ACTIVE_DETECTORS = ('H1','AX','L1','L2')
 FITS = ('Ar40H1:parabolic','Ar40AX:parabolic','Ar40L1:parabolic','Ar40L2:parabolic')
 BASELINE_FITS=('average_SEM',)
 
-NCYCLES=6
+NCYCLES=10
 GENERATE_ICMFTABLE=True
 
 def main():
