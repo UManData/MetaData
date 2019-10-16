@@ -105,17 +105,3 @@ def main():
     open('B')
     open('A')
     close(description='Prep IG')
-
-#===============================================================================
-# POST MEASUREMENT SCRIPT argus_pump_ms.py
-#===============================================================================
-"""
-"""
-
-# Open "MS IG"
-
-
-def main():
-    info('pump ms')
-    open(description='MSIonPump')
-    close(description='MS IG')
