@@ -3,7 +3,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": 2011,
+            "identifier": "2011",
             "j": 0.0179,
             "j_err": 0.0,
             "mean_j": 0,
@@ -15,7 +15,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": 2012,
+            "identifier": "2012",
             "j": 0.0179,
             "j_err": 0.0,
             "mean_j": 0,
@@ -27,7 +27,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": 2013,
+            "identifier": "2013",
             "j": 0.0179,
             "j_err": 0.0,
             "mean_j": 0,
@@ -39,7 +39,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": 2014,
+            "identifier": "2014",
             "j": 0.0179,
             "j_err": 0.0,
             "mean_j": 0,
@@ -51,7 +51,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": 2015,
+            "identifier": "2015",
             "j": 0.0179,
             "j_err": 0.0,
             "mean_j": 0,
@@ -63,7 +63,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": 2016,
+            "identifier": "2016",
             "j": 0.0179,
             "j_err": 0.0,
             "mean_j": 0,
@@ -75,9 +75,9 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": 2006,
+            "identifier": "2006",
             "j": 0.0179,
-            "j_err": 0,
+            "j_err": 0.0,
             "mean_j": 0,
             "mean_j_err": 0,
             "options": {},
@@ -87,9 +87,9 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": 2007,
+            "identifier": "2007",
             "j": 0.0179,
-            "j_err": 0,
+            "j_err": 0.0,
             "mean_j": 0,
             "mean_j_err": 0,
             "options": {},
@@ -99,9 +99,9 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": 2008,
+            "identifier": "2008",
             "j": 0.0179,
-            "j_err": 0,
+            "j_err": 0.0,
             "mean_j": 0,
             "mean_j_err": 0,
             "options": {},
@@ -111,9 +111,9 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": 2009,
+            "identifier": "2009",
             "j": 0.0179,
-            "j_err": 0,
+            "j_err": 0.0,
             "mean_j": 0,
             "mean_j_err": 0,
             "options": {},
@@ -123,9 +123,9 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": 2010,
+            "identifier": "2010",
             "j": 0.0179,
-            "j_err": 0,
+            "j_err": 0.0,
             "mean_j": 0,
             "mean_j_err": 0,
             "options": {},
