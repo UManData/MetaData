@@ -3,7 +3,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": 2043,
+            "identifier": "2043",
             "j": 0.0179,
             "j_err": 0.0,
             "mean_j": 0,
@@ -15,7 +15,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": 2044,
+            "identifier": "2044",
             "j": 0.0179,
             "j_err": 0.0,
             "mean_j": 0,
@@ -27,7 +27,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": 2045,
+            "identifier": "2045",
             "j": 0.0179,
             "j_err": 0.0,
             "mean_j": 0,
@@ -39,7 +39,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": 2046,
+            "identifier": "2046",
             "j": 0.0179,
             "j_err": 0.0,
             "mean_j": 0,
@@ -51,9 +51,9 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": 2039,
+            "identifier": "2039",
             "j": 0.0179,
-            "j_err": 0,
+            "j_err": 0.0,
             "mean_j": 0,
             "mean_j_err": 0,
             "options": {},
@@ -63,9 +63,9 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": 2040,
+            "identifier": "2040",
             "j": 0.0179,
-            "j_err": 0,
+            "j_err": 0.0,
             "mean_j": 0,
             "mean_j_err": 0,
             "options": {},
@@ -75,9 +75,9 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": 2041,
+            "identifier": "2041",
             "j": 0.0179,
-            "j_err": 0,
+            "j_err": 0.0,
             "mean_j": 0,
             "mean_j_err": 0,
             "options": {},
@@ -87,9 +87,9 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": 2042,
+            "identifier": "2042",
             "j": 0.0179,
-            "j_err": 0,
+            "j_err": 0.0,
             "mean_j": 0,
             "mean_j_err": 0,
             "options": {},
