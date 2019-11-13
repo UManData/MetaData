@@ -19,7 +19,7 @@ def main():
         sleep(196)
     else:
         info('Starting long delay for user to manually fire laser')
-        sleep(76) # change this number to be equivalent to ablation time
+        sleep(54) # change this number to be equivalent to ablation time
             
     close(description='MS IG')
     sleep(cleanup)
