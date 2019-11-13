@@ -16,7 +16,7 @@ def main():
         sleep(2)
         close('D') # Ion Pump
         sleep(2)
-        sleep(196) # Ablation time (76s) + cleaning time (120s)
+        sleep(154) # Ablation time (54s) + cleaning time (120s)
     else:
         info('move to position {}'.format(position))
         move_to_position(position)
