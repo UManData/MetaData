@@ -19,7 +19,7 @@ def main():
         close('D') # Ion Pump
         sleep(2)
         #sleep(420) # Getter time (360s) + ramp (20s) and heating (40s) CO2 time
-        sleep(260) # Getter time (180s) + ramp (20s) and heating (60s) CO2 time
+        sleep(440) # Getter time (360s) + ramp (20s) and heating (60s) CO2 time
         #sleep(240) # Getter time (180s) + ramp (20s) and heating (40s) CO2 time
         #close('B') # CO2 inlet
     else:
