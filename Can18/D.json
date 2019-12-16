@@ -35,8 +35,8 @@
             "analyses": [
                 {
                     "is_omitted": false,
-                    "record_id": "2034-01B",
-                    "uuid": "cc931885-4bd9-427e-b0ee-b4934bcc06aa"
+                    "record_id": "2034-01A",
+                    "uuid": "247ab907-7fcd-4cf3-afa1-65ab80cac1a2"
                 }
             ],
             "decay_constants": {
@@ -44,9 +44,9 @@
                 "lambda_k_total_error": 0
             },
             "identifier": "2034",
-            "j": 0.01910425336297811,
-            "j_err": 1.6634596753112342e-05,
-            "mean_j": 0.01908627173504301,
+            "j": 0.019112633116471236,
+            "j_err": 2.0448757225511405e-05,
+            "mean_j": -0.003935100987946816,
             "mean_j_err": 0.0,
             "options": {
                 "model_kind": "Plane",
@@ -66,8 +66,8 @@
             "analyses": [
                 {
                     "is_omitted": false,
-                    "record_id": "2035-01B",
-                    "uuid": "4abfd61d-6dff-4619-882f-7f9e18e6e8f4"
+                    "record_id": "2035-01A",
+                    "uuid": "613f8585-599e-46db-9e7a-54824eb21467"
                 }
             ],
             "decay_constants": {
@@ -75,9 +75,9 @@
                 "lambda_k_total_error": 0
             },
             "identifier": "2035",
-            "j": 0.019114859058616485,
-            "j_err": 1.6641381156722055e-05,
-            "mean_j": 0.019116586851478278,
+            "j": 0.01912720323507912,
+            "j_err": 1.0031684474643832e-05,
+            "mean_j": 0.019132732476267747,
             "mean_j_err": 0.0,
             "options": {
                 "model_kind": "Plane",
@@ -97,8 +97,8 @@
             "analyses": [
                 {
                     "is_omitted": false,
-                    "record_id": "2036-01B",
-                    "uuid": "6fb45faf-8853-4c1f-beb5-ea01ad1b0a73"
+                    "record_id": "2036-01A",
+                    "uuid": "097bfaef-87c1-4857-b8aa-373b28aa632a"
                 }
             ],
             "decay_constants": {
@@ -106,9 +106,9 @@
                 "lambda_k_total_error": 0
             },
             "identifier": "2036",
-            "j": 0.01911798234431915,
-            "j_err": 1.6634596753112342e-05,
-            "mean_j": 0.01912748607936289,
+            "j": 0.019172864594561526,
+            "j_err": 1.093154367861282e-05,
+            "mean_j": 0.019169442818075137,
             "mean_j_err": 0.0,
             "options": {
                 "model_kind": "Plane",
@@ -128,8 +128,8 @@
             "analyses": [
                 {
                     "is_omitted": false,
-                    "record_id": "2037-01B",
-                    "uuid": "e5380d7a-1f03-4afa-9c18-04a6f9540f6d"
+                    "record_id": "2037-01A",
+                    "uuid": "783a7097-ab01-4e2d-aa29-7d8026fce64b"
                 }
             ],
             "decay_constants": {
@@ -137,9 +137,9 @@
                 "lambda_k_total_error": 0
             },
             "identifier": "2037",
-            "j": 0.019109316913687353,
-            "j_err": 1.664097240002314e-05,
-            "mean_j": 0.019086554855048857,
+            "j": 0.01918651267721351,
+            "j_err": 1.0030965337346557e-05,
+            "mean_j": 0.01919204322292989,
             "mean_j_err": 0.0,
             "options": {
                 "model_kind": "Plane",
@@ -159,8 +159,8 @@
             "analyses": [
                 {
                     "is_omitted": false,
-                    "record_id": "2038-01B",
-                    "uuid": "67e8983b-3641-4eee-90cd-c3acb0a578d8"
+                    "record_id": "2038-01A",
+                    "uuid": "8a2ee683-f52a-4023-bd3b-3cbea4e7f5f6"
                 }
             ],
             "decay_constants": {
@@ -168,9 +168,9 @@
                 "lambda_k_total_error": 0
             },
             "identifier": "2038",
-            "j": 0.0191094468806788,
-            "j_err": 9.023495833320787e-06,
-            "mean_j": 0.019117297081077646,
+            "j": 0.01914969215634409,
+            "j_err": 8.536275438733605e-06,
+            "mean_j": 0.01914205414592549,
             "mean_j_err": 0.0,
             "options": {
                 "model_kind": "Plane",
@@ -193,8 +193,8 @@
                 "lambda_k_total_error": 0
             },
             "identifier": "2028",
-            "j": 0.019105905305225043,
-            "j_err": 1.2850765670356318e-05,
+            "j": 0.01916440826739043,
+            "j_err": 1.2291799831660343e-05,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "options": {
@@ -218,8 +218,8 @@
                 "lambda_k_total_error": 0
             },
             "identifier": "2029",
-            "j": 0.019103858596122063,
-            "j_err": 1.2850216203211844e-05,
+            "j": 0.019134523037334258,
+            "j_err": 1.753168605830671e-05,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "options": {
@@ -243,8 +243,8 @@
                 "lambda_k_total_error": 0
             },
             "identifier": "2030",
-            "j": 0.019109530326605017,
-            "j_err": 1.2862243062611018e-05,
+            "j": 0.019125552175558294,
+            "j_err": 1.2301183134758851e-05,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "options": {
@@ -268,8 +268,8 @@
                 "lambda_k_total_error": 0
             },
             "identifier": "2031",
-            "j": 0.019115100934861382,
-            "j_err": 1.2862243062611018e-05,
+            "j": 0.019149991422783418,
+            "j_err": 6.888581854072777e-06,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "options": {
@@ -293,8 +293,8 @@
                 "lambda_k_total_error": 0
             },
             "identifier": "2032",
-            "j": 0.019112846634266198,
-            "j_err": 1.2850216203211847e-05,
+            "j": 0.019173955156084017,
+            "j_err": 6.880928122140075e-06,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "options": {
