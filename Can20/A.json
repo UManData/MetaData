@@ -82,8 +82,8 @@
                 "lambda_k_total_error": 9.998499887483122e-12
             },
             "identifier": "2174",
-            "j": 0.0008202529426752155,
-            "j_err": 9.017436565195007e-07,
+            "j": 0.000822002703664038,
+            "j_err": 1.4679788004384034e-06,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "options": {
@@ -160,8 +160,8 @@
             "analyses": [
                 {
                     "is_omitted": false,
-                    "record_id": "2177-01A",
-                    "uuid": "e47f10dc-058f-4bb8-8b05-b1d744344904"
+                    "record_id": "2177-01C",
+                    "uuid": "5baf9233-811a-4981-bf18-6d2f14331731"
                 }
             ],
             "decay_constants": {
@@ -169,9 +169,9 @@
                 "lambda_k_total_error": 9.998499887483122e-12
             },
             "identifier": "2177",
-            "j": 0.0008175455131027416,
-            "j_err": 1.1662151016631408e-06,
-            "mean_j": 0.0008183992588836527,
+            "j": 0.0008186780611983559,
+            "j_err": 2.1352609874371005e-06,
+            "mean_j": 0.0008172230046112698,
             "mean_j_err": 0.0,
             "options": {
                 "model_kind": "Plane",
@@ -191,8 +191,8 @@
             "analyses": [
                 {
                     "is_omitted": false,
-                    "record_id": "2178-01A",
-                    "uuid": "5b7df39f-53c3-4ef9-a39e-0e8a19626eff"
+                    "record_id": "2178-01C",
+                    "uuid": "cdc28256-0253-4220-bf80-5a878c06a228"
                 }
             ],
             "decay_constants": {
@@ -200,9 +200,9 @@
                 "lambda_k_total_error": 9.998499887483122e-12
             },
             "identifier": "2178",
-            "j": 0.0008182308677768881,
-            "j_err": 1.1666907413232332e-06,
-            "mean_j": 0.0008184875675215132,
+            "j": 0.0008201686363762379,
+            "j_err": 1.932949808683715e-06,
+            "mean_j": 0.0008204434397207161,
             "mean_j_err": 0.0,
             "options": {
                 "model_kind": "Plane",
@@ -222,8 +222,8 @@
             "analyses": [
                 {
                     "is_omitted": false,
-                    "record_id": "2179-01A",
-                    "uuid": "8ef9a370-b3d5-4b64-b74c-b1d478f175a5"
+                    "record_id": "2179-01C",
+                    "uuid": "3f3e7abb-fbc0-45b2-bf5f-1e582bab07e4"
                 }
             ],
             "decay_constants": {
@@ -231,9 +231,9 @@
                 "lambda_k_total_error": 9.998499887483122e-12
             },
             "identifier": "2179",
-            "j": 0.0008221291791389608,
-            "j_err": 1.1662151016631408e-06,
-            "mean_j": 0.0008225818483707812,
+            "j": 0.0008239238788938847,
+            "j_err": 1.9322179193397837e-06,
+            "mean_j": 0.0008228547837270299,
             "mean_j_err": 0.0,
             "options": {
                 "model_kind": "Plane",
@@ -253,8 +253,8 @@
             "analyses": [
                 {
                     "is_omitted": false,
-                    "record_id": "2180-01A",
-                    "uuid": "6800e5c1-477b-4542-81cf-f14d698d6ec2"
+                    "record_id": "2180-01C",
+                    "uuid": "ec86bf7f-f79a-48e8-b522-e2e09f25090a"
                 }
             ],
             "decay_constants": {
@@ -262,9 +262,9 @@
                 "lambda_k_total_error": 9.998499887483122e-12
             },
             "identifier": "2180",
-            "j": 0.0008238523489115552,
-            "j_err": 1.1666620842874028e-06,
-            "mean_j": 0.000824584543989165,
+            "j": 0.0008247543084649831,
+            "j_err": 2.1350278630483697e-06,
+            "mean_j": 0.0008241304870997253,
             "mean_j_err": 0.0,
             "options": {
                 "model_kind": "Plane",
@@ -284,8 +284,8 @@
             "analyses": [
                 {
                     "is_omitted": false,
-                    "record_id": "2181-01A",
-                    "uuid": "c3cacdb2-83c7-4ef0-b6be-64b1020a6eef"
+                    "record_id": "2181-01C",
+                    "uuid": "6a6fd7f7-7faa-4335-b861-0edba2835933"
                 }
             ],
             "decay_constants": {
@@ -293,9 +293,9 @@
                 "lambda_k_total_error": 9.998499887483122e-12
             },
             "identifier": "2181",
-            "j": 0.0008205548641163764,
-            "j_err": 6.326175059605342e-07,
-            "mean_j": 0.0008181756108354675,
+            "j": 0.0008218067159144868,
+            "j_err": 1.175775702399487e-06,
+            "mean_j": 0.0008246798856892094,
             "mean_j_err": 0.0,
             "options": {
                 "model_kind": "Plane",
