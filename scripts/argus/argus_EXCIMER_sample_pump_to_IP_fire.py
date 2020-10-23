@@ -10,13 +10,12 @@ def main():
     # prepare for analysis
     close(description='Prep IG')
     sleep(10)
-    close('D') # Ion Pump
     open('B') # CO2 inlet In this configuration gas is cleaned by hot getter in CO2 line
     sleep(2)
     
     if analysis_type=='blank':
         info('is blank. not heating')
-        sleep(196)
+        sleep(174) # Ablation time (54s) + cleaning time (120s)
     else:
         # info('Starting long delay for user to manually fire laser')
         # sleep(54) # change this number to be equivalent to ablation time
@@ -34,9 +33,10 @@ def main():
                 if not i:
                     warmup()
                     sleep(28)
+                    close('D') # Ion Pump
                     # close to pumps
                     close('O')
-                    sleep(2)
+                    sleep(120)
                 
                 # run the active scan. wait until completed
                 extract()
@@ -47,7 +47,7 @@ def main():
     close(description='MS IG')
     sleep(cleanup)
 #===============================================================================
-# POST EQUILIBRATION SCRIPT argus_pump_sample_to_turbo.py
+# POST EQUILIBRATION SCRIPT argus_pump_sample_to_IP.py
 #===============================================================================
 """
 """
@@ -84,12 +84,9 @@ def main():
 
 def main():
     info('pump sample')
-    open('B')
-    #open(description='Excimer Inlet')
-    close('D')
-    open('A')
-    close(description='Prep IG')
-
+    open(name="B", description="CO2 Inlet")
+    open(name="A", description="Excimer Inlet")
+    open(name="D", description="Ion Pump")
 #===============================================================================
 # POST MEASUREMENT SCRIPT argus_pump_ms.py
 #===============================================================================
