@@ -35,7 +35,7 @@ def main():
 #    sleep(10)
     close('I')
     close('A')
-    close('B')
+    open('B')
     close('D')
     sleep (2)
     open('H')
