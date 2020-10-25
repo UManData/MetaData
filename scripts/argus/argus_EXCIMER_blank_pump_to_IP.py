@@ -17,6 +17,14 @@ def main():
         close('D') # Ion Pump
         sleep(2)
         #sleep(154) # Ablation time (54s) + cleaning time (120s)
+        if ramp_duration>0:
+            '''
+            style 1.
+            '''
+            begin_interval(duration)
+            info('ramping to {}. ramp_duration={}'.format(extract_value, ramp_duration))
+            ramp(setpoint=extract_value, duration=ramp_duration)
+            complete_interval()
     else:
         info('move to position {}'.format(position))
         move_to_position(position)
