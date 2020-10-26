@@ -36,12 +36,12 @@ def main():
                     close('D') # Ion Pump
                     # close to pumps
                     close('O')
-                    sleep(120)
+                    
                 
                 # run the active scan. wait until completed
                 extract()
                 info('scan {} complete'.format(pi))
-        
+                sleep(120)
         
             
     close(description='MS IG')
