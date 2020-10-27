@@ -36,7 +36,7 @@ def main():
                     close('D') # Ion Pump
                     # close to pumps
                     close('O')
-                    #sleep(180)
+                    sleep(60)
                 
                 # run the active scan. wait until completed
                 extract()
