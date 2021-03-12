@@ -51,8 +51,9 @@ def main():
     disable()
     
     close(description='MS IG')
+    sleep(10)
+    close('B')
     sleep(cleanup)
-    #close('B')
 #===============================================================================
 # POST EQUILIBRATION SCRIPT argus_pump_sample_to_turbo.py
 #===============================================================================
