@@ -61,6 +61,7 @@ def main():
     sleep(2)
     open('B') # open CO2 inlet
     sleep(cleanup)
+   
 #===============================================================================
 # POST EQUILIBRATION SCRIPT argus_pump_sample_to_turbo.py
 #===============================================================================
