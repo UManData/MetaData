@@ -1,0 +1,87 @@
+
+username: root
+use_email: False
+email: 
+use_group_email: False
+date: 2020-02-17 14:50:35.481834
+queue_conditionals_name: 
+mass_spectrometer: Argus
+delay_before_analyses: 5
+delay_between_analyses: 30
+delay_after_blank: 1
+delay_after_air: 1
+extract_device: ChromiumCO2
+tray: 
+load: 1
+note: 
+#================================================================================
+labnumber	sample	position	e_value	e_units	duration	cleanup	overlap	beam_diam	pattern	extraction	ramp	t_o	measurement	conditionals	syn_extraction	use_cdd_warming	post_meas	post_eq	s_opt	dis_btw_pos	weight	comment	autocenter	frequency_group	repository_identifier	delay_after
+ba-01-A	blank_air									CO2_sample			blank				pump_ms	pump_sample_to_turbo							Argus_blank191	
+pa					1000.0					pause															laboratory	
+ba-01-A	blank_air									Air_(no_split)_pump_to_Turbo			air				pump_ms	pump_air_to_Turbo							Argus_blank191	
+pa					300.0					pause															laboratory	
+a-01-A	air									Air_(no_split)_pump_to_Turbo			air				pump_ms	pump_air_to_Turbo							Argus_air191	
+pa					1000.0					pause															laboratory	
+ba-01-A	blank_air									CO2_sample			blank				pump_ms	pump_sample_to_turbo							Argus_blank191	
+pa					300.0					pause															laboratory	
+2049-01	TKHK-101a		0.2	percent	40.0	180.0				CO2_sample	20.0		sample				pump_ms	pump_sample_to_turbo							Himalaya	
+pa					1000.0					pause															laboratory	
+ba-01-A	blank_air									CO2_sample			blank				pump_ms	pump_sample_to_turbo							Argus_blank191	
+pa					300.0					pause															laboratory	
+2049-01	TKHK-101a		0.8	percent	40.0	180.0				CO2_sample	20.0		sample				pump_ms	pump_sample_to_turbo							Himalaya	
+pa					1000.0					pause															laboratory	
+ba-01-A	blank_air									CO2_sample			blank				pump_ms	pump_sample_to_turbo							Argus_blank191	
+pa					300.0					pause															laboratory	
+2049-01	TKHK-101a		1.0	percent	40.0	180.0				CO2_sample	20.0		sample				pump_ms	pump_sample_to_turbo							Himalaya	
+pa					1000.0					pause															laboratory	
+ba-01-A	blank_air									Air_(no_split)_pump_to_Turbo			air				pump_ms	pump_air_to_Turbo							Argus_blank191	
+pa					300.0					pause															laboratory	
+a-01-A	air									Air_(no_split)_pump_to_Turbo			air				pump_ms	pump_air_to_Turbo							Argus_air191	
+pa					1000.0					pause															laboratory	
+ba-01-A	blank_air									CO2_sample			blank				pump_ms	pump_sample_to_turbo							Argus_blank191	
+pa					300.0					pause															laboratory	
+2049-01	TKHK-101a		1.5	percent	40.0	180.0				CO2_sample	20.0		sample				pump_ms	pump_sample_to_turbo							Himalaya	
+pa					1000.0					pause															laboratory	
+ba-01-A	blank_air									CO2_sample			blank				pump_ms	pump_sample_to_turbo							Argus_blank191	
+pa					300.0					pause															laboratory	
+2049-01	TKHK-101a		2.0	percent	40.0	180.0				CO2_sample	20.0		sample				pump_ms	pump_sample_to_turbo							Himalaya	
+pa					1000.0					pause															laboratory	
+ba-01-A	blank_air									CO2_sample			blank				pump_ms	pump_sample_to_turbo							Argus_blank191	
+pa					300.0					pause															laboratory	
+2049-01	TKHK-101a		2.2	percent	40.0	180.0				CO2_sample	20.0		sample				pump_ms	pump_sample_to_turbo							Himalaya	
+pa					1000.0					pause															laboratory	
+ba-01-A	blank_air									Air_(no_split)_pump_to_Turbo			air				pump_ms	pump_air_to_Turbo							Argus_blank191	
+pa					300.0					pause															laboratory	
+a-01-A	air									Air_(no_split)_pump_to_Turbo			air				pump_ms	pump_air_to_Turbo							Argus_air191	
+pa					1000.0					pause															laboratory	
+ba-01-A	blank_air									CO2_sample			blank				pump_ms	pump_sample_to_turbo							Argus_blank191	
+pa					300.0					pause															laboratory	
+2049-01	TKHK-101a		2.4	percent	40.0	180.0				CO2_sample	20.0		sample				pump_ms	pump_sample_to_turbo							Himalaya	
+pa					1000.0					pause															laboratory	
+ba-01-A	blank_air									CO2_sample			blank				pump_ms	pump_sample_to_turbo							Argus_blank191	
+pa					300.0					pause															laboratory	
+2049-01	TKHK-101a		2.6	percent	40.0	180.0				CO2_sample	20.0		sample				pump_ms	pump_sample_to_turbo							Himalaya	
+pa					1000.0					pause															laboratory	
+ba-01-A	blank_air									CO2_sample			blank				pump_ms	pump_sample_to_turbo							Argus_blank191	
+pa					300.0					pause															laboratory	
+2049-01	TKHK-101a		2.8	percent	40.0	180.0				CO2_sample	20.0		sample				pump_ms	pump_sample_to_turbo							Himalaya	
+pa					1000.0					pause															laboratory	
+ba-01-A	blank_air									Air_(no_split)_pump_to_Turbo			air				pump_ms	pump_air_to_Turbo							Argus_blank191	
+pa					300.0					pause															laboratory	
+a-01-A	air									Air_(no_split)_pump_to_Turbo			air				pump_ms	pump_air_to_Turbo							Argus_air191	
+pa					1000.0					pause															laboratory	
+ba-01-A	blank_air									CO2_sample			blank				pump_ms	pump_sample_to_turbo							Argus_blank191	
+pa					300.0					pause															laboratory	
+2049-01	TKHK-101a		3.0	percent	40.0	180.0				CO2_sample	20.0		sample				pump_ms	pump_sample_to_turbo							Himalaya	
+pa					1000.0					pause															laboratory	
+ba-01-A	blank_air									CO2_sample			blank				pump_ms	pump_sample_to_turbo							Argus_blank191	
+pa					300.0					pause															laboratory	
+2049-01	TKHK-101a		4.0	percent	40.0	180.0				CO2_sample	20.0		sample				pump_ms	pump_sample_to_turbo							Himalaya	
+pa					1000.0					pause															laboratory	
+ba-01-A	blank_air									CO2_sample			blank				pump_ms	pump_sample_to_turbo							Argus_blank191	
+pa					300.0					pause															laboratory	
+2049-01	TKHK-101a		6.0	percent	40.0	180.0				CO2_sample	20.0		sample				pump_ms	pump_sample_to_turbo							Himalaya	
+pa					1000.0					pause															laboratory	
+ba-01-A	blank_air									Air_(no_split)_pump_to_Turbo			air				pump_ms	pump_air_to_Turbo							Argus_blank191	
+pa					300.0					pause															laboratory	
+a-01-A	air									Air_(no_split)_pump_to_Turbo			air				pump_ms	pump_air_to_Turbo							Argus_air191	
