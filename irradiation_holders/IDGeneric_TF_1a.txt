@@ -1,0 +1,70 @@
+
+username: root
+use_email: False
+email: 
+use_group_email: False
+date: 2021-03-04 08:08:05.032314
+queue_conditionals_name: 
+mass_spectrometer: Argus
+delay_before_analyses: 5
+delay_between_analyses: 30
+delay_after_blank: 1
+delay_after_air: 1
+extract_device: ChromiumCO2
+default_lighting: 0
+tray: ---
+load: 1
+note: 
+#================================================================================
+labnumber	sample	position	e_value	e_units	duration	cleanup	pre_cleanup	post_cleanup	overlap	beam_diam	pattern	light_value	extraction	ramp	t_o	measurement	conditionals	syn_extraction	use_cdd_warming	post_meas	post_eq	s_opt	dis_btw_pos	weight	comment	autocenter	frequency_group	repository_identifier	delay_after
+ba-01-A	blank_air												Air_(no_split)_pump_to_Turbo			air				pump_ms	pump_air_to_Turbo							Argus_air190	
+pa					300.0								pause															laboratory	
+a-01-A	air												Air_(no_split)_pump_to_Turbo			air				pump_ms	pump_air_to_Turbo							Argus_air190	
+pa					1000.0								pause															laboratory	
+ba-01-A	blank_air												CO2_sample			blank				pump_ms	pump_sample_to_turbo							Argus_air190	
+pa					300.0								pause															laboratory	
+2306-01	FOL-20-07	57	6.2	percent	40.0	180.0							CO2_sample	10.0		sample				pump_ms	pump_sample_to_turbo							Greece	
+pa					1000.0								pause															laboratory	
+ba-01-A	blank_air												CO2_sample			blank				pump_ms	pump_sample_to_turbo							Argus_air190	
+pa					300.0								pause															laboratory	
+2306-01	FOL-20-07	56	6.2	percent	40.0	180.0							CO2_sample	10.0		sample				pump_ms	pump_sample_to_turbo							Greece	
+pa					1000.0								pause															laboratory	
+ba-01-A	blank_air												CO2_sample			blank				pump_ms	pump_sample_to_turbo							Argus_air190	
+pa					300.0								pause															laboratory	
+2306-01	FOL-20-07	55	6.2	percent	40.0	180.0							CO2_sample	10.0		sample				pump_ms	pump_sample_to_turbo							Greece	
+pa					1000.0								pause															laboratory	
+ba-01-A	blank_air												Air_(no_split)_pump_to_Turbo			air				pump_ms	pump_air_to_Turbo							Argus_air190	
+pa					300.0								pause															laboratory	
+a-01-A	air												Air_(no_split)_pump_to_Turbo			air				pump_ms	pump_air_to_Turbo							Argus_air190	
+pa					1000.0								pause															laboratory	
+ba-01-A	blank_air												CO2_sample			blank				pump_ms	pump_sample_to_turbo							Argus_air190	
+pa					300.0								pause															laboratory	
+2306-01	FOL-20-07	54	6.2	percent	40.0	180.0							CO2_sample	10.0		sample				pump_ms	pump_sample_to_turbo							Greece	
+pa					1000.0								pause															laboratory	
+ba-01-A	blank_air												CO2_sample			blank				pump_ms	pump_sample_to_turbo							Argus_air190	
+pa					300.0								pause															laboratory	
+2306-01	FOL-20-07	53	6.2	percent	40.0	180.0							CO2_sample	10.0		sample				pump_ms	pump_sample_to_turbo							Greece	
+pa					1000.0								pause															laboratory	
+ba-01-A	blank_air												CO2_sample			blank				pump_ms	pump_sample_to_turbo							Argus_air190	
+pa					300.0								pause															laboratory	
+2306-01	FOL-20-07	52	6.2	percent	40.0	180.0							CO2_sample	10.0		sample				pump_ms	pump_sample_to_turbo							Greece	
+pa					1000.0								pause															laboratory	
+ba-01-A	blank_air												Air_(no_split)_pump_to_Turbo			air				pump_ms	pump_air_to_Turbo							Argus_air190	
+pa					300.0								pause															laboratory	
+a-01-A	air												Air_(no_split)_pump_to_Turbo			air				pump_ms	pump_air_to_Turbo							Argus_air190	
+pa					1000.0								pause															laboratory	
+ba-01-A	blank_air												CO2_sample			blank				pump_ms	pump_sample_to_turbo							Argus_air190	
+pa					300.0								pause															laboratory	
+2306-01	FOL-20-07	51	6.2	percent	40.0	180.0							CO2_sample	10.0		sample				pump_ms	pump_sample_to_turbo							Greece	
+pa					1000.0								pause															laboratory	
+ba-01-A	blank_air												CO2_sample			blank				pump_ms	pump_sample_to_turbo							Argus_air190	
+pa					300.0								pause															laboratory	
+2306-01	FOL-20-07	50	6.2	percent	40.0	180.0							CO2_sample	10.0		sample				pump_ms	pump_sample_to_turbo							Greece	
+pa					1000.0								pause															laboratory	
+ba-01-A	blank_air												CO2_sample			blank				pump_ms	pump_sample_to_turbo							Argus_air190	
+pa					300.0								pause															laboratory	
+2306-01	FOL-20-07	49	6.2	percent	40.0	180.0							CO2_sample	10.0		sample				pump_ms	pump_sample_to_turbo							Greece	
+pa					1000.0								pause															laboratory	
+ba-01-A	blank_air												Air_(no_split)_pump_to_Turbo			air				pump_ms	pump_air_to_Turbo							Argus_air190	
+pa					300.0								pause															laboratory	
+a-01-A	air												Air_(no_split)_pump_to_Turbo			air				pump_ms	pump_air_to_Turbo							Argus_air190	
