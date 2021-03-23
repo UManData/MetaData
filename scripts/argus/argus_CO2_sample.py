@@ -19,10 +19,11 @@ def main():
         close('D') # Ion Pump
         sleep(2)
         #sleep(420) # Getter time (360s) + ramp (20s) and heating (40s) CO2 time
-        sleep(240) # Getter time (180) + ramp (20s) and heating (40s) CO2 time (SH)
         #sleep(180) # Getter time (120) + ramp (20s) and heating (40s) CO2 time (TF mica)
         #sleep(140) # Getter time (60s) + ramp (20s) and heating (60s) CO2 time (TF Sanidine)
+        sleep(70) # ramp (20s) + heating (40s) + sleep (10) CO2 time (SH)
         #close('B') # CO2 inlet
+        
     else:
         info('move to position {}'.format(position))
         move_to_position(position)
@@ -51,8 +52,8 @@ def main():
     disable()
     
     close(description='MS IG')
-    #sleep(10)
-    #close('B')
+    sleep(10)
+    close('B')
     sleep(cleanup)
 #===============================================================================
 # POST EQUILIBRATION SCRIPT argus_pump_sample_to_turbo.py
