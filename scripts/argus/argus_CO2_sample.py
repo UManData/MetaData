@@ -20,7 +20,7 @@ def main():
         sleep(2)
         #sleep(420) # Getter time (360s) + ramp (20s) and heating (40s) CO2 time
         #sleep(180) # Getter time (120) + ramp (20s) and heating (40s) CO2 time (TF mica)
-        #sleep(140) # Getter time (60s) + ramp (20s) and heating (60s) CO2 time (TF Sanidine)
+        #sleep(240) # Getter time (60s) + ramp (20s) and heating (60s) CO2 time (TF Sanidine, Olduvai)
         sleep(60) # ramp (20s) + heating (40s) CO2 time (SH)
         #close('B') # CO2 inlet
         
