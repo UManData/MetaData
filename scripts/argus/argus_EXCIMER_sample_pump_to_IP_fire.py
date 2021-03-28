@@ -8,14 +8,14 @@ def main():
     info('Excimer sample')
     
     # prepare for analysis
-    close('B') # CO2 inlet
     close(description='Prep IG')
+    close(name="B", description="CO2 Inlet")
     sleep(2)
        
     if analysis_type=='blank':
         info('is blank. not heating')
-        close('B') # CO2 inlet
-        sleep(112) # Ablation time (110s) + 2 sleep after closing valve
+        close(name="B", description="CO2 Inlet")
+        sleep(122) # Ablation time (120s) + 2 sleep after closing valve
     else:
         # info('Starting long delay for user to manually fire laser')
         # sleep(54) # change this number to be equivalent to ablation time
@@ -85,7 +85,7 @@ def main():
 
 def main():
     info('pump sample')
-    open(name="B", description="CO2 Inlet")
+    close(name="B", description="CO2 Inlet")
     open(name="A", description="Excimer Inlet")
     open(name="D", description="Ion Pump")
 #===============================================================================
