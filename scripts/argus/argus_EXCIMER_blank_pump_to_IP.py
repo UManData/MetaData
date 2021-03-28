@@ -12,11 +12,11 @@ def main():
     
     if analysis_type=='blank':
         info('is blank. not heating')
-        open('B') # close CO2 inlet
+        close('B') # close CO2 inlet
         sleep(2)
         close('D') # Ion Pump
         sleep(2)
-        sleep(95) # Ablation time (65s) + cleaning time (30s)
+        sleep(120) # Ablation time (65s) + cleaning time (30s)
         #if ramp_duration>0:
         #    '''
         #    #style 1.
