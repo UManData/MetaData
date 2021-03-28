@@ -8,14 +8,14 @@ def main():
     info('Excimer sample')
     
     # prepare for analysis
+    close('B') # CO2 inlet
     close(description='Prep IG')
-    sleep(10)
-    open('B') # CO2 inlet In this configuration gas is cleaned by hot getter in CO2 line
     sleep(2)
-    
+       
     if analysis_type=='blank':
         info('is blank. not heating')
-        sleep(174) # Ablation time (54s) + cleaning time (120s)
+        close('B') # CO2 inlet
+        sleep(112) # Ablation time (110s) + 2 sleep after closing valve
     else:
         # info('Starting long delay for user to manually fire laser')
         # sleep(54) # change this number to be equivalent to ablation time
@@ -34,6 +34,7 @@ def main():
                     warmup()
                     sleep(28)
                     close('D') # Ion Pump
+                    close('B') # Ion Pump
                     # close to pumps
                     close('O')
                     #sleep(60)
