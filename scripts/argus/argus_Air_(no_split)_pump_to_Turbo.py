@@ -40,7 +40,7 @@ def main():
     close('I')
 #    close('G')
     close('A')
-    close('B')
+#    close('B')
     close('D')
     sleep (2)
     open('H')
