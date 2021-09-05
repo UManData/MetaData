@@ -9,7 +9,7 @@ baseline:
   settling_time: 10.0
 default_fits: nominal
 equilibration:
-  eqtime: 45.0
+  eqtime: 20.0
   inlet: C
   inlet_delay: 3
   outlet: E
