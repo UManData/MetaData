@@ -60,6 +60,8 @@ def main():
     close ('A') # close turbo
     sleep(2)
     open('B') # open CO2 inlet
+    sleep(2)
+    close('B') # close CO2 inlet
     sleep(cleanup)
    
 #===============================================================================
