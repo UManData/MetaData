@@ -25,6 +25,7 @@ def main():
 #    close('F')
     sleep (2)
     open('A')
+    open('B')
     if analysis_type=='blank':
         info('analysis is a blank. not filling pipette')
     else:
@@ -40,7 +41,7 @@ def main():
     close('I')
 #    close('G')
     close('A')
-    close('B')
+    open(name="B", description="CO2 Inlet")
     close('D')
     sleep (2)
     open('H')
