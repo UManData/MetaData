@@ -34,7 +34,7 @@ def main():
     close(description='Prep IG')
 #    sleep(10)
     close('I')
-    close('A')
+    open('A')
     close('B')
     close('D')
     sleep (2)
