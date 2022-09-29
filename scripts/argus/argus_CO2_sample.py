@@ -22,7 +22,7 @@ def main():
         #sleep(300) # Getter time (240) + ramp (20s) and heating (40s) CO2 time (TF mica)
         #sleep(140) # Getter time (60s) + ramp (20s) and heating (60s) CO2 time (TF Sanidine, Olduvai)
         #sleep(80) # ramp (20s) + heating (60s) CO2 time (SH)
-        #close('B') # CO2 inlet
+        close('B') # CO2 inlet
         
     else:
         info('move to position {}'.format(position))
@@ -47,6 +47,7 @@ def main():
         else:
             extract()
             sleep(duration)
+    close('B')
             
     end_extract()
     disable()
