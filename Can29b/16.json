@@ -3,7 +3,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": 3241,
+            "identifier": "3241",
             "j": 0.0142,
             "j_err": 0.0,
             "mean_j": 0,
@@ -15,7 +15,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": 3242,
+            "identifier": "3242",
             "j": 0.0142,
             "j_err": 0.0,
             "mean_j": 0,
@@ -27,7 +27,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": 3243,
+            "identifier": "3243",
             "j": 0.0142,
             "j_err": 0.0,
             "mean_j": 0,
@@ -39,7 +39,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": 3244,
+            "identifier": "3244",
             "j": 0.0142,
             "j_err": 0.0,
             "mean_j": 0,
@@ -51,7 +51,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": 3245,
+            "identifier": "3245",
             "j": 0.0142,
             "j_err": 0.0,
             "mean_j": 0,
@@ -63,7 +63,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": 3246,
+            "identifier": "3246",
             "j": 0.0142,
             "j_err": 0.0,
             "mean_j": 0,
@@ -75,7 +75,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": 3247,
+            "identifier": "3247",
             "j": 0.0142,
             "j_err": 0.0,
             "mean_j": 0,
@@ -87,7 +87,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": 3248,
+            "identifier": "3248",
             "j": 0.0142,
             "j_err": 0.0,
             "mean_j": 0,
@@ -99,7 +99,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": 3249,
+            "identifier": "3249",
             "j": 0.0142,
             "j_err": 0.0,
             "mean_j": 0,
