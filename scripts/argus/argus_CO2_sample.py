@@ -57,7 +57,7 @@ def main():
     #close('B')
     sleep(cleanup)
 #===============================================================================
-# POST EQUILIBRATION SCRIPT argus_pump_sample_to_turbo.py
+# POST EQUILIBRATION SCRIPT argus_pump_air_to_Turbo.py
 #===============================================================================
 """
 """
@@ -93,10 +93,8 @@ def main():
 
 
 def main():
-    info('pump sample')
+    info('pump air to turbo')
     open('B')
-    #open(description='Excimer Inlet')
-    close('D')
     open('A')
     close(description='Prep IG')
 
