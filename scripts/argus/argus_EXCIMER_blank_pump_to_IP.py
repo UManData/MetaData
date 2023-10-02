@@ -16,7 +16,7 @@ def main():
         sleep(2)
         close('D') # Ion Pump
         sleep(2)
-        sleep(200) # Ablation time (152s) + sleep time (2s): 30 s warmup not taken into account
+        sleep(75) # Ablation time (s) + sleep time (2s): 5 s warmup not taken into account
         #if ramp_duration>0:
         #    '''
         #    #style 1.
