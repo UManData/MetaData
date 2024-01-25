@@ -18,9 +18,9 @@ def main():
         sleep(2)
         close('D') # Ion Pump
         sleep(2)
-        sleep(240) # Getter time (180s) + ramp (20s) and heating (40s) CO2 time
+        #sleep(240) # Getter time (180s) + ramp (20s) and heating (40s) CO2 time
         #sleep(300) # Getter time (240) + ramp (20s) and heating (40s) CO2 time (TF mica)
-        #sleep(140) # Getter time (60s) + ramp (20s) and heating (60s) CO2 time (TF Sanidine, Olduvai)
+        sleep(140) # Getter time (60s) + ramp (20s) and heating (60s) CO2 time (TF Sanidine, Olduvai)
         #sleep(80) # ramp (20s) + heating (60s) CO2 time (SH)
         close('B') # CO2 inlet
         
@@ -47,7 +47,7 @@ def main():
         else:
             extract()
             sleep(duration)
-    close('B')
+    #close('B')
             
     end_extract()
     disable()
@@ -57,7 +57,7 @@ def main():
     #close('B')
     sleep(cleanup)
 #===============================================================================
-# POST EQUILIBRATION SCRIPT argus_pump_sample_to_IP.py
+# POST EQUILIBRATION SCRIPT argus_pump_sample_to_turbo.py
 #===============================================================================
 """
 """
@@ -94,9 +94,12 @@ def main():
 
 def main():
     info('pump sample')
-    open(name="B", description="CO2 Inlet")
-    open(name="A", description="Excimer Inlet")
-    open(name="D", description="Ion Pump")
+    open('B')
+    #open(description='Excimer Inlet')
+    close('D')
+    open('A')
+    close(description='Prep IG')
+
 #===============================================================================
 # POST MEASUREMENT SCRIPT argus_pump_ms.py
 #===============================================================================
