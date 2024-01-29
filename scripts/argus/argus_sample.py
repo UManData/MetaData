@@ -25,6 +25,7 @@ peakcenter:
   detectors:
   - H1
   - AX
+  - L1
   - CDD
   integration_time: 0.262144
   isotope: Ar40
