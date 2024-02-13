@@ -103,7 +103,7 @@ def main():
     open('A') # Excimer Inlet
 
 #===============================================================================
-# POST MEASUREMENT SCRIPT argus_gasin_ms.py
+# POST MEASUREMENT SCRIPT argus_pump_ms.py
 #===============================================================================
 """
 """
@@ -113,5 +113,5 @@ def main():
 
 def main():
     info('pump ms')
-    close(name="E", description="MSIonPump")
+    open(description='MSIonPump')
     close(description='MS IG')
