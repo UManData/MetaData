@@ -57,7 +57,7 @@ def main():
     #close('B')
     sleep(cleanup)
 #===============================================================================
-# POST EQUILIBRATION SCRIPT argus_pump_sample_to_IP.py
+# POST EQUILIBRATION SCRIPT argus_pump_sample_to_turbo.py
 #===============================================================================
 """
 """
@@ -94,9 +94,12 @@ def main():
 
 def main():
     info('pump sample')
-    open(name="B", description="CO2 Inlet")
-    open(name="A", description="Excimer Inlet")
-    open(name="D", description="Ion Pump")
+    open('B')
+    #open(description='Excimer Inlet')
+    close('D')
+    open('A')
+    close(description='Prep IG')
+
 #===============================================================================
 # POST MEASUREMENT SCRIPT argus_pump_ms.py
 #===============================================================================
