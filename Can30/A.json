@@ -13,8 +13,6 @@
             "mean_j_err": 0.0,
             "mean_j_mswd": 0.0,
             "options": {
-                "interpolation_style": "Weighted Mean",
-                "model_kind": "Plane",
                 "monitor_age": 28.201,
                 "monitor_material": "",
                 "monitor_name": "",
@@ -25,7 +23,7 @@
                 "use_weighted_fit": false
             },
             "position": 1,
-            "position_jerr": 0.0
+            "position_jerr": null
         },
         {
             "analyses": [],
@@ -40,8 +38,6 @@
             "mean_j_err": 0.0,
             "mean_j_mswd": 0.0,
             "options": {
-                "interpolation_style": "Weighted Mean",
-                "model_kind": "Plane",
                 "monitor_age": 28.201,
                 "monitor_material": "",
                 "monitor_name": "",
@@ -52,7 +48,7 @@
                 "use_weighted_fit": false
             },
             "position": 2,
-            "position_jerr": 0.0
+            "position_jerr": null
         },
         {
             "analyses": [],
@@ -67,8 +63,6 @@
             "mean_j_err": 0.0,
             "mean_j_mswd": 0.0,
             "options": {
-                "interpolation_style": "Weighted Mean",
-                "model_kind": "Plane",
                 "monitor_age": 28.201,
                 "monitor_material": "",
                 "monitor_name": "",
@@ -79,7 +73,7 @@
                 "use_weighted_fit": false
             },
             "position": 3,
-            "position_jerr": 0.0
+            "position_jerr": null
         },
         {
             "analyses": [],
@@ -94,8 +88,6 @@
             "mean_j_err": 0.0,
             "mean_j_mswd": 0.0,
             "options": {
-                "interpolation_style": "Weighted Mean",
-                "model_kind": "Plane",
                 "monitor_age": 28.201,
                 "monitor_material": "",
                 "monitor_name": "",
@@ -106,7 +98,7 @@
                 "use_weighted_fit": false
             },
             "position": 4,
-            "position_jerr": 0.0
+            "position_jerr": null
         },
         {
             "analyses": [],
@@ -121,8 +113,6 @@
             "mean_j_err": 0.0,
             "mean_j_mswd": 0.0,
             "options": {
-                "interpolation_style": "Weighted Mean",
-                "model_kind": "Plane",
                 "monitor_age": 28.201,
                 "monitor_material": "",
                 "monitor_name": "",
@@ -133,7 +123,7 @@
                 "use_weighted_fit": false
             },
             "position": 5,
-            "position_jerr": 0.0
+            "position_jerr": null
         },
         {
             "analyses": [],
@@ -148,8 +138,6 @@
             "mean_j_err": 0.0,
             "mean_j_mswd": 0.0,
             "options": {
-                "interpolation_style": "Weighted Mean",
-                "model_kind": "Plane",
                 "monitor_age": 28.201,
                 "monitor_material": "",
                 "monitor_name": "",
@@ -160,7 +148,7 @@
                 "use_weighted_fit": false
             },
             "position": 6,
-            "position_jerr": 0.0
+            "position_jerr": null
         },
         {
             "analyses": [
@@ -224,8 +212,6 @@
             "mean_j_err": 0.0,
             "mean_j_mswd": 0.0,
             "options": {
-                "interpolation_style": "Weighted Mean",
-                "model_kind": "Plane",
                 "monitor_age": 28.201,
                 "monitor_material": "",
                 "monitor_name": "",
@@ -236,16 +222,10 @@
                 "use_weighted_fit": false
             },
             "position": 8,
-            "position_jerr": 0.0
+            "position_jerr": null
         },
         {
-            "analyses": [
-                {
-                    "is_omitted": false,
-                    "record_id": "3268-01A",
-                    "uuid": "b6af89d0-ded7-4f6c-b31d-e290cbf77cf9"
-                }
-            ],
+            "analyses": [],
             "decay_constants": {
                 "lambda_k_total": 5.464e-10,
                 "lambda_k_total_error": 0.0
@@ -257,8 +237,6 @@
             "mean_j_err": 0.0,
             "mean_j_mswd": 0.0,
             "options": {
-                "interpolation_style": "Weighted Mean",
-                "model_kind": "Plane",
                 "monitor_age": 28.201,
                 "monitor_material": "",
                 "monitor_name": "",
@@ -269,16 +247,10 @@
                 "use_weighted_fit": false
             },
             "position": 9,
-            "position_jerr": 0.0
+            "position_jerr": null
         },
         {
-            "analyses": [
-                {
-                    "is_omitted": false,
-                    "record_id": "3269-01A",
-                    "uuid": "1a5fa9cb-5c95-49f6-b29f-8e4872771029"
-                }
-            ],
+            "analyses": [],
             "decay_constants": {
                 "lambda_k_total": 5.464e-10,
                 "lambda_k_total_error": 0.0
@@ -290,8 +262,6 @@
             "mean_j_err": 0.0,
             "mean_j_mswd": 0.0,
             "options": {
-                "interpolation_style": "Weighted Mean",
-                "model_kind": "Plane",
                 "monitor_age": 28.201,
                 "monitor_material": "",
                 "monitor_name": "",
@@ -302,16 +272,10 @@
                 "use_weighted_fit": false
             },
             "position": 10,
-            "position_jerr": 0.0
+            "position_jerr": null
         },
         {
-            "analyses": [
-                {
-                    "is_omitted": false,
-                    "record_id": "3270-01A",
-                    "uuid": "daa0dd23-4127-4656-8d8b-f4ea487b4a17"
-                }
-            ],
+            "analyses": [],
             "decay_constants": {
                 "lambda_k_total": 5.464e-10,
                 "lambda_k_total_error": 0.0
@@ -323,8 +287,6 @@
             "mean_j_err": 0.0,
             "mean_j_mswd": 0.0,
             "options": {
-                "interpolation_style": "Weighted Mean",
-                "model_kind": "Plane",
                 "monitor_age": 28.201,
                 "monitor_material": "",
                 "monitor_name": "",
@@ -335,16 +297,10 @@
                 "use_weighted_fit": false
             },
             "position": 11,
-            "position_jerr": 0.0
+            "position_jerr": null
         },
         {
-            "analyses": [
-                {
-                    "is_omitted": false,
-                    "record_id": "3271-01A",
-                    "uuid": "ad3c3512-b438-4ec7-b00d-1e30eb28962c"
-                }
-            ],
+            "analyses": [],
             "decay_constants": {
                 "lambda_k_total": 5.464e-10,
                 "lambda_k_total_error": 0.0
@@ -356,8 +312,6 @@
             "mean_j_err": 0.0,
             "mean_j_mswd": 0.0,
             "options": {
-                "interpolation_style": "Weighted Mean",
-                "model_kind": "Plane",
                 "monitor_age": 28.201,
                 "monitor_material": "",
                 "monitor_name": "",
@@ -368,16 +322,10 @@
                 "use_weighted_fit": false
             },
             "position": 12,
-            "position_jerr": 0.0
+            "position_jerr": null
         },
         {
-            "analyses": [
-                {
-                    "is_omitted": false,
-                    "record_id": "3272-01A",
-                    "uuid": "d5da75de-049e-43d5-bf91-6a1304ed9415"
-                }
-            ],
+            "analyses": [],
             "decay_constants": {
                 "lambda_k_total": 5.464e-10,
                 "lambda_k_total_error": 0.0
@@ -389,8 +337,6 @@
             "mean_j_err": 0.0,
             "mean_j_mswd": 0.0,
             "options": {
-                "interpolation_style": "Weighted Mean",
-                "model_kind": "Plane",
                 "monitor_age": 28.201,
                 "monitor_material": "",
                 "monitor_name": "",
@@ -401,7 +347,7 @@
                 "use_weighted_fit": false
             },
             "position": 13,
-            "position_jerr": 0.0
+            "position_jerr": null
         }
     ],
     "z": 0.0
