@@ -7,8 +7,8 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "3495",
-            "j": 0.009590864178374132,
-            "j_err": Infinity,
+            "j": 0.009590958924329382,
+            "j_err": 2.1972391382335343e-05,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "mean_j_mswd": 0.0,
@@ -34,8 +34,8 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "3496",
-            "j": 0.009590864178374132,
-            "j_err": Infinity,
+            "j": 0.009590958924329382,
+            "j_err": 2.1972391382335343e-05,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "mean_j_mswd": 0.0,
@@ -61,8 +61,8 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "3497",
-            "j": 0.009579724044957178,
-            "j_err": Infinity,
+            "j": 0.009609686917029351,
+            "j_err": 1.6008088048405328e-05,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "mean_j_mswd": 0.0,
@@ -88,8 +88,8 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "3498",
-            "j": 0.009579724044957178,
-            "j_err": Infinity,
+            "j": 0.009609686917029351,
+            "j_err": 1.6008088048405328e-05,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "mean_j_mswd": 0.0,
@@ -115,8 +115,8 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "3499",
-            "j": 0.009601954909259424,
-            "j_err": Infinity,
+            "j": 0.00963555385001323,
+            "j_err": 1.61165536029379e-05,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "mean_j_mswd": 0.0,
@@ -142,8 +142,8 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "3500",
-            "j": 0.009601954909259424,
-            "j_err": Infinity,
+            "j": 0.00963555385001323,
+            "j_err": 1.61165536029379e-05,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "mean_j_mswd": 0.0,
@@ -169,8 +169,8 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "3501",
-            "j": 0.00962691930678445,
-            "j_err": Infinity,
+            "j": 0.009632789035330476,
+            "j_err": 1.6024504941050924e-05,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "mean_j_mswd": 0.0,
@@ -196,8 +196,8 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "3502",
-            "j": 0.00962691930678445,
-            "j_err": Infinity,
+            "j": 0.009632789035330476,
+            "j_err": 1.6024504941050924e-05,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "mean_j_mswd": 0.0,
@@ -223,8 +223,8 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "3503",
-            "j": 0.009620003480680183,
-            "j_err": Infinity,
+            "j": 0.009605225957168877,
+            "j_err": 2.1975032117895683e-05,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "mean_j_mswd": 0.0,
@@ -250,8 +250,8 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "3504",
-            "j": 0.009620003480680183,
-            "j_err": Infinity,
+            "j": 0.009605225957168877,
+            "j_err": 2.1975032117895683e-05,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "mean_j_mswd": 0.0,
@@ -271,20 +271,14 @@
             "position_jerr": 0.0
         },
         {
-            "analyses": [
-                {
-                    "is_omitted": false,
-                    "record_id": "3505-01A",
-                    "uuid": "b23d6a47-71ce-4802-9939-92a1473a1981"
-                }
-            ],
+            "analyses": [],
             "decay_constants": {
                 "lambda_k_total": 5.5428e-10,
                 "lambda_k_total_error": 0.0
             },
             "identifier": "3505",
-            "j": 0.0095687586727306,
-            "j_err": Infinity,
+            "j": 0.009587434769018568,
+            "j_err": 2.343991002343417e-05,
             "mean_j": 0.008810308450265274,
             "mean_j_err": 0.0,
             "mean_j_mswd": 0.0,
@@ -304,20 +298,14 @@
             "position_jerr": 0.0
         },
         {
-            "analyses": [
-                {
-                    "is_omitted": false,
-                    "record_id": "3506-01A",
-                    "uuid": "a4dc7f15-540e-4a8d-9538-cc680e5ede3c"
-                }
-            ],
+            "analyses": [],
             "decay_constants": {
                 "lambda_k_total": 5.5428e-10,
                 "lambda_k_total_error": 0.0
             },
             "identifier": "3506",
-            "j": 0.009579269611824221,
-            "j_err": Infinity,
+            "j": 0.009629504128102578,
+            "j_err": 2.1213312930879358e-05,
             "mean_j": 0.009579269611824225,
             "mean_j_err": 0.0,
             "mean_j_mswd": 0.0,
@@ -337,20 +325,14 @@
             "position_jerr": 0.0
         },
         {
-            "analyses": [
-                {
-                    "is_omitted": false,
-                    "record_id": "3507-01A",
-                    "uuid": "6306e9c1-babc-445a-9dae-0eaee44dbeb7"
-                }
-            ],
+            "analyses": [],
             "decay_constants": {
                 "lambda_k_total": 5.5428e-10,
                 "lambda_k_total_error": 0.0
             },
             "identifier": "3507",
-            "j": 0.009623790150465819,
-            "j_err": Infinity,
+            "j": 0.009651316894009582,
+            "j_err": 2.122134815171455e-05,
             "mean_j": 0.009623790150465827,
             "mean_j_err": 0.0,
             "mean_j_mswd": 0.0,
@@ -370,20 +352,14 @@
             "position_jerr": 0.0
         },
         {
-            "analyses": [
-                {
-                    "is_omitted": false,
-                    "record_id": "3508-01A",
-                    "uuid": "0252a130-98fb-4842-874f-8c3f23d85cdc"
-                }
-            ],
+            "analyses": [],
             "decay_constants": {
                 "lambda_k_total": 5.5428e-10,
                 "lambda_k_total_error": 0.0
             },
             "identifier": "3508",
-            "j": 0.009640795343313207,
-            "j_err": Infinity,
+            "j": 0.009622690134469548,
+            "j_err": 2.3442469434854833e-05,
             "mean_j": 0.00964079534331321,
             "mean_j_err": 0.0,
             "mean_j_mswd": 0.0,
@@ -403,20 +379,14 @@
             "position_jerr": 0.0
         },
         {
-            "analyses": [
-                {
-                    "is_omitted": false,
-                    "record_id": "3509-01A",
-                    "uuid": "8e2b2815-4c29-417c-bdf2-b6a536c12043"
-                }
-            ],
+            "analyses": [],
             "decay_constants": {
                 "lambda_k_total": 5.5428e-10,
                 "lambda_k_total_error": 0.0
             },
             "identifier": "3509",
-            "j": 0.009606824952644649,
-            "j_err": Infinity,
+            "j": 0.009583218916842736,
+            "j_err": 3.073731908849975e-05,
             "mean_j": 0.02176672786814104,
             "mean_j_err": 0.0,
             "mean_j_mswd": 0.0,
@@ -436,20 +406,14 @@
             "position_jerr": 0.0
         },
         {
-            "analyses": [
-                {
-                    "is_omitted": false,
-                    "record_id": "3510-01A",
-                    "uuid": "5133af51-7bf1-4da8-90ba-9d00bb1bc0d0"
-                }
-            ],
+            "analyses": [],
             "decay_constants": {
                 "lambda_k_total": 5.5428e-10,
                 "lambda_k_total_error": 0.0
             },
             "identifier": "3510",
-            "j": 0.0096038877461957,
-            "j_err": Infinity,
+            "j": 0.009614832968488602,
+            "j_err": 1.2908532553122807e-05,
             "mean_j": 0.014437375472082238,
             "mean_j_err": 0.0,
             "mean_j_mswd": 0.0,
