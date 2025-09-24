@@ -15,7 +15,7 @@ def main():
     if analysis_type=='blank':
         info('is blank. not heating')
         close(name="B", description="CO2 Inlet")
-        sleep(62) # Ablation time (s) + 2 sleep after closing valve 30 s warmup not taken into account
+        sleep(100) # Ablation time (s) + 2 sleep after closing valve 30 s warmup not taken into account
     else:
         # info('Starting long delay for user to manually fire laser')
         # sleep(54) # change this number to be equivalent to ablation time
