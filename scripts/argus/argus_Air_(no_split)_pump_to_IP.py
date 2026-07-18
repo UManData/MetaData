@@ -59,7 +59,7 @@ def main():
     #sleep(2)
     #open('C')
 #===============================================================================
-# POST EQUILIBRATION SCRIPT argus_pump_sample_to_IP.py
+# POST EQUILIBRATION SCRIPT argus_pump_air_to_IP.py
 #===============================================================================
 """
 """
@@ -95,10 +95,11 @@ def main():
 
 
 def main():
-    info('pump sample')
-    open(name="B", description="CO2 Inlet")
-    open(name="A", description="Excimer Inlet")
-    open(name="D", description="Ion Pump")
+    info('pump sample')    
+    open('D') # Ion pump extraction line
+    open('B') # CO2 Inlet
+    open('A') # Excimer Inlet
+
 #===============================================================================
 # POST MEASUREMENT SCRIPT argus_pump_ms.py
 #===============================================================================
